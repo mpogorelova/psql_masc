@@ -7,7 +7,8 @@
 ///@file
 /// Definition of Word-Aligned Hybrid code.
 
-#include "array_t.h"	// alternative to std::vector
+#include </home/maria/fastbit/src/array_t.h>
+#include </home/maria/fastbit/src/capi.h>	// alternative to std::vector
 
 #if defined(_MSC_VER) && defined(_WIN32)
 //disable warnings on extern before template instantiation

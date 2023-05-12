@@ -1,0 +1,4 @@
+#masc extension
+comment = 'postgresql support for fastbit-masc'
+default_version = '0.1'
+relocatable = true
